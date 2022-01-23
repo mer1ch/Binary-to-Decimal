@@ -1,6 +1,5 @@
 package binary.to.decimal;
 
-import java.util.Scanner;
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
